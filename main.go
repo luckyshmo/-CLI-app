@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/luckyshmo/CLI-app/cmd"
+import "github.com/luckyshmo/folder-manager/cmd"
 
 func main() {
 	cmd.Execute()

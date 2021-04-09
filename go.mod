@@ -1,4 +1,4 @@
-module github.com/luckyshmo/CLI-app
+module github.com/luckyshmo/folder-manager
 
 go 1.15
 
