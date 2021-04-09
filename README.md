@@ -1,1 +1,1 @@
-Basic CLI demo project using Cobra
+Basic CLI folder manager using Cobra
